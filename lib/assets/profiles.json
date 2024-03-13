@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Котики",
+    "surname": "Забавные",
+    "form": {
+      "image1": "lib/assets/acquaint/cat1.png",
+      "image2": "lib/assets/acquaint/cat2.png",
+      "image3": "lib/assets/acquaint/cat3.png",
+      "image4": "",
+      "image5": "",
+      "image6": "",
+      "age": "3",
+      "info": "Привет! Мы - веселая кошачья банда. Любим валяться на окне и обожаем когда нас гладят. Молоко - наша слабость, особенно теплое, прямо из холодильника"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Лисы",
+    "surname": "Хитрые",
+    "form": {
+      "image1": "lib/assets/acquaint/fox1.png",
+      "image2": "lib/assets/acquaint/fox2.png",
+      "image3": "lib/assets/acquaint/fox3.png",
+      "image4": "",
+      "image5": "",
+      "image6": "",
+      "age": "4",
+      "info": "Привет! Мы - веселая кошачья банда. Любим валяться на окне и обожаем когда нас гладят. Молоко - наша слабость, особенно теплое, прямо из холодильника"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Пингвины",
+    "surname": "Антарктические",
+    "form": {
+      "image1": "lib/assets/acquaint/pinguin1.png",
+      "image2": "lib/assets/acquaint/pinguin2.png",
+      "image3": "lib/assets/acquaint/pinguin3.png",
+      "image4": "",
+      "image5": "",
+      "image6": "",
+      "age": "4",
+      "info": "Привет! Мы - веселая кошачья банда. Любим валяться на окне и обожаем когда нас гладят. Молоко - наша слабость, особенно теплое, прямо из холодильника"
+    }
+  }
+]
